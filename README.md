@@ -1,5 +1,5 @@
 
-Next-Gen JavaScript - Summary
+# Next-Gen JavaScript - Summary
 In this module, I provided a brief introduction into some core next-gen JavaScript features, of course focusing on the ones you'll see the most in this course. Here's a quick summary!
 
 let & const
@@ -200,3 +200,5 @@ const printName = ({name}) => {
 }
 printName({name: 'Max', age: 28}); // prints 'Max')
 We get the same result as above but we save some code. By destructuring, we simply pull out the name  property and store it in a variable/ argument named name  which we then can use in the function body.
+
+# ReactJS course
