@@ -227,3 +227,5 @@ slice()  => https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Gl
 splice()  => https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice
 
 # ReactJS course
+
+   # React Summary & Core Feature Walkthrough
